@@ -1,0 +1,39 @@
+---
+title: "Experience"
+---
+
+## Teaching
+
+- Supplemental Instruction Leader for STA2226: Applied Probability and Statistics at Oakland University
+  - I designed activities and practice assessments for group study sessions following each lecture
+  - I also served as the Jon Froemke intern for the Academic Success Center in the 2020-2021 academic year. For this position, I created a teaching guide for a calculus course taken primarily by students in the School of Business Administration
+- [Math Corps Summer Camp](https://mathcorps.org/locations/pontiac/) College Instructor at Oakland University
+  - I participated during the first year of the program in 2020. We met virtually due to the COVID-19 pandemic, but this has developed into a thriving in-person summer camp at OU!
+  - Along with other college instructors, I assisted Dr. Anna Maria Spagnuolo in leading math review activities for middle school students to prepare for their next school year and build confidence
+
+## Professional Experience
+
+- [FDA-OCE-ASA Oncology Educational Fellowship](https://community.amstat.org/fdaoceasaoncologyeducationalfellowship/home)
+  - This fellowship consisted of 8 virtual meetings, each centered around a different statistical/regulatory topic and ending with the discussion of a case study. Topics included:
+    - Overview of approval programs and pathways at the FDA
+    - Early endpoints in oncology
+    - Subgroup analyses and multiplicity
+    - Time-to-event endpoints and intercurrent events
+    - Bayesian trial designs in oncology
+    - Adaptive designs and master protocols
+    - Dose optimization trials
+    - Vaccine and cell therapy trials
+    - Regulatory considerations for real-world evidence and patient reported outcomes 
+  - In the last meeting, we utilized the information we learned throughout the fellowship by forming groups and conducting a mock Oncologics Drug Advisory Committee (ODAC) meeting 
+
+- Biostatistics Intern at Karmanos Cancer Institute (KCI) in Detroit, MI
+  - I was mentored by Dr. Lance Heilbrun in the Biostatistics and Bioinformatics Core
+  - This was intended to be an in-person summer internship, but was virtual due to the COVID-19 pandemic. While meeting virtually limited my experience, it also made it possible to extend the position. We continued meeting virtually until I started my MS degree at U-M
+  -  I attended a weekly journal club meeting with statisticians and medical fellows at KCI and another weekly biostatistics journal club with statisticians at Henry Ford Health
+  - I discussed essential statistics concepts for phase 3 clinical trials in one-on-one meetings with Dr. Heilbrun
+
+## Projects
+
+
+
+## Courses
