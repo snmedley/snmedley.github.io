@@ -1,10 +1,59 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "snmedley.github.io",
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
     "section": "",
-    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+    "text": "Sequential, Multiple Assignment, Randomized Trials (SMARTs): I have focused on standard SMART designs and novel SMART designs incorporating patient treatment preferences, but I would also like to explore small sample SMARTs (snSMARTs) for rare diseases.\nSupplementing clinical trials with real-world evidence (RWE): I am interested in developing dynamic borrowing and in determining which method best achieves the desired balance between bias and efficiency for a particular application."
+  },
+  {
+    "objectID": "research.html#research-interests",
+    "href": "research.html#research-interests",
+    "title": "Research",
+    "section": "",
+    "text": "Sequential, Multiple Assignment, Randomized Trials (SMARTs): I have focused on standard SMART designs and novel SMART designs incorporating patient treatment preferences, but I would also like to explore small sample SMARTs (snSMARTs) for rare diseases.\nSupplementing clinical trials with real-world evidence (RWE): I am interested in developing dynamic borrowing and in determining which method best achieves the desired balance between bias and efficiency for a particular application."
+  },
+  {
+    "objectID": "research.html#publications",
+    "href": "research.html#publications",
+    "title": "Research",
+    "section": "Publications",
+    "text": "Publications\n\nPeer Reviewed Book Chapters\n\n\nManuscripts Submitted\n\n\nManuscripts in Preparation\n\n\nManuscripts Published"
+  },
+  {
+    "objectID": "experience.html",
+    "href": "experience.html",
+    "title": "Experience",
+    "section": "",
+    "text": "Supplemental Instruction Leader for STA2226: Applied Probability and Statistics at Oakland University\n\nI designed activities and practice assessments for group study sessions following each lecture\nI also served as the Jon Froemke intern for the Academic Success Center in the 2020-2021 academic year. For this position, I created a teaching guide for a calculus course taken primarily by students in the School of Business Administration\n\nMath Corps Summer Camp College Instructor at Oakland University\n\nI participated during the first year of the program in 2020. We met virtually due to the COVID-19 pandemic, but this has developed into a thriving in-person summer camp at OU!\nAlong with other college instructors, I assisted Dr. Anna Maria Spagnuolo in leading math review activities for middle school students to prepare for their next school year and build confidence"
+  },
+  {
+    "objectID": "experience.html#teaching",
+    "href": "experience.html#teaching",
+    "title": "Experience",
+    "section": "",
+    "text": "Supplemental Instruction Leader for STA2226: Applied Probability and Statistics at Oakland University\n\nI designed activities and practice assessments for group study sessions following each lecture\nI also served as the Jon Froemke intern for the Academic Success Center in the 2020-2021 academic year. For this position, I created a teaching guide for a calculus course taken primarily by students in the School of Business Administration\n\nMath Corps Summer Camp College Instructor at Oakland University\n\nI participated during the first year of the program in 2020. We met virtually due to the COVID-19 pandemic, but this has developed into a thriving in-person summer camp at OU!\nAlong with other college instructors, I assisted Dr. Anna Maria Spagnuolo in leading math review activities for middle school students to prepare for their next school year and build confidence"
+  },
+  {
+    "objectID": "experience.html#professional-experience",
+    "href": "experience.html#professional-experience",
+    "title": "Experience",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\nFDA-OCE-ASA Oncology Educational Fellowship\n\nThis fellowship consisted of 8 virtual meetings, each centered around a different statistical/regulatory topic and ending with the discussion of a case study. Topics included:\n\nOverview of approval programs and pathways at the FDA\nEarly endpoints in oncology\nSubgroup analyses and multiplicity\nTime-to-event endpoints and intercurrent events\nBayesian trial designs in oncology\nAdaptive designs and master protocols\nDose optimization trials\nVaccine and cell therapy trials\nRegulatory considerations for real-world evidence and patient reported outcomes\n\nIn the last meeting, we utilized the information we learned throughout the fellowship by forming groups and conducting a mock Oncologics Drug Advisory Committee (ODAC) meeting\n\nBiostatistics Intern at Karmanos Cancer Institute (KCI) in Detroit, MI\n\nI was mentored by Dr. Lance Heilbrun in the Biostatistics and Bioinformatics Core\nThis was intended to be an in-person summer internship, but was virtual due to the COVID-19 pandemic. While meeting virtually limited my experience, it also made it possible to extend the position. We continued meeting virtually until I started my MS degree at U-M\nI attended a weekly journal club meeting with statisticians and medical fellows at KCI and another weekly biostatistics journal club with statisticians at Henry Ford Health\nI discussed essential statistics concepts for phase 3 clinical trials in one-on-one meetings with Dr. Heilbrun"
+  },
+  {
+    "objectID": "experience.html#projects",
+    "href": "experience.html#projects",
+    "title": "Experience",
+    "section": "Projects",
+    "text": "Projects"
+  },
+  {
+    "objectID": "experience.html#courses",
+    "href": "experience.html#courses",
+    "title": "Experience",
+    "section": "Courses",
+    "text": "Courses"
   },
   {
     "objectID": "about.html",
@@ -12,5 +61,12 @@
     "title": "About",
     "section": "",
     "text": "About this site\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sarah Medley",
+    "section": "",
+    "text": "I’m currently a PhD candidate in the Department of Biostatitics at University of Michigan. I am co-advised by Drs. Kelley Kidwell and Tom Braun, and my disseration focuses on the development of frequentist and Bayesian methods for novel SMART designs incorporating patient treatment preferences. I am expecting to graduate in May 2026 and am currently exploring career options. I would love to continue learning about innovative clinical trial designs and methods!\nMy complete CV is available, but please see the Research and Experience tabs for a better picture of my current interests and past work!"
   }
 ]
