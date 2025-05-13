@@ -1,11 +1,20 @@
 ---
-title: "snmedley.github.io"
+title: "Sarah Medley"
+image: media/crop.JPG
+toc: false
+about:
+  template: jolla
+  image-shape: round
+  image-width: 14em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/sarah-medley-033198133/
+    - text: GitHub
+      href: https://github.com/snmedley
+    - text: Email
+      href: mailto:medley@umich.edu
 ---
 
-This is a Quarto website.
+I'm currently a PhD candidate in the Department of Biostatitics at University of Michigan. I am co-advised by Drs. Kelley Kidwell and Tom Braun, and my disseration focuses on the development of frequentist and Bayesian methods for novel SMART designs incorporating patient treatment preferences. I am expecting to graduate in May 2026 and am currently exploring career options. I would love to continue learning about innovative clinical trial designs and methods!
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+My complete CV is available, but please see the Research and Experience tabs for a better picture of my current interests and past work!
