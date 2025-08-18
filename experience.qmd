@@ -3,13 +3,16 @@ title: "Experience"
 ---
 
 ## Teaching
-
+- Guest Lecture On Linear Regression for the U-M Big Data Summer Institute 2025
+  - I led a 3 hour session introducing simple and multiple linear regression wih the goal of understanding modelling assumptions, interpreting parameters, and using a fitted model to obtain predicted values. 
+  - The first half of the session was a lecture with some brief questions to assess understanding ([slides]())
+  - The second half of the session included an activity in R to learn lm and other basic R functions essential for linear regression ([worksheet]())
+- Guest Lecture on Protocols and Deviations for BIOS 619: Clinical Trials (November 2023)
+  - My dissertation advisor Dr. Kelley Kidwell was the course instructor. I borrowed her slides to lead the 1.5 hour lecture.
 - Supplemental Instruction Leader for STA2226: Applied Probability and Statistics at Oakland University
   - I designed activities and practice assessments for group study sessions following each lecture
   - I also served as the Jon Froemke intern for the Academic Success Center in the 2020-2021 academic year. For this position, I created a teaching guide for a calculus course taken primarily by students in the School of Business Administration
-- [Math Corps Summer Camp](https://mathcorps.org/locations/pontiac/) College Instructor at Oakland University
-  - I participated during the first year of the program in 2020. We met virtually due to the COVID-19 pandemic, but this has developed into a thriving in-person summer camp at OU!
-  - Along with other college instructors, I assisted Dr. Anna Maria Spagnuolo in leading math review activities for middle school students to prepare for their next school year and build confidence
+
 
 ## Professional Experience
 
@@ -34,6 +37,24 @@ title: "Experience"
 
 ## Projects
 
-
+- Statistical analysis for the Back Pain Research Consortium (BACPAC) Research Program -- starting August 2025
+  - This trial employed a Sequential, Multiple Assignment, Randomized Trial (SMART) in order to determine optimal treatment recommendations for chronic low back pain
+  - The SMART compares 4 interventions: Exercise/PT, Mindfulness Based Stress Reduction, Acupressure, and Duloxetine
+  - The study objectives include identifying treatment moderators, determining optimal initial treatment recommendations based on patient phenotypes, and establishing mediators of the treatment effects
+  - We will use SMART methodology developed by Dr. Kidwell and her research team to share data across treatment stages and estimate treatment effects wtih greater efficiency
+- Statistical analysis using data from the Exemestane and Letrozole Pharmacogenetics (ELPh) trial (NCT00228956) -- April to June 2024
+  - The ELPh trial concluded in 2009 and previously published analyses demonstrated a significant effect of aromatase inhibitor (AI) therapy on estradiol levels
+  - The objectives of this analysis were to examine how the changes in estrogen levels due to AI therapy impacted oxylipin species and if oxylipin changes are associated with AT-associated musculoskeletal symptoms (AIMSS)
+  - The statistical analysis for both objectives involved multivariable regression models. One challenge with this project was handling highly correlated oxylipin species. 
+- Statistical analysis for the Michigan Alcohol Improvement Network- Alcohol Reduction and Treatment Trial (MAIN-ART, NCT04473482) -- June to September 2023
+  - This was a randomized pilot trial to assess the feasibility and acceptability of a mobile health intervention for alcohol use disorder (AUD)
+  - A challenge with this project was learning how to present the results given the small number of trial participants
+- Statistical analyses for 2 pharmacogenomics studies (2021 and 2022)
 
 ## Courses
+
+## Other
+
+- [Math Corps Summer Camp](https://mathcorps.org/locations/pontiac/) College Instructor at Oakland University
+  - I participated during the first year of the program in 2020. We met virtually due to the COVID-19 pandemic, but this has developed into a thriving in-person summer camp at OU!
+  - Along with other college instructors, I assisted Dr. Anna Maria Spagnuolo in leading math review activities for middle school students to prepare for their next school year and build confidence
