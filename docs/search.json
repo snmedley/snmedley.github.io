@@ -25,14 +25,14 @@
     "href": "experience.html",
     "title": "Experience",
     "section": "",
-    "text": "Supplemental Instruction Leader for STA2226: Applied Probability and Statistics at Oakland University\n\nI designed activities and practice assessments for group study sessions following each lecture\nI also served as the Jon Froemke intern for the Academic Success Center in the 2020-2021 academic year. For this position, I created a teaching guide for a calculus course taken primarily by students in the School of Business Administration\n\nMath Corps Summer Camp College Instructor at Oakland University\n\nI participated during the first year of the program in 2020. We met virtually due to the COVID-19 pandemic, but this has developed into a thriving in-person summer camp at OU!\nAlong with other college instructors, I assisted Dr. Anna Maria Spagnuolo in leading math review activities for middle school students to prepare for their next school year and build confidence"
+    "text": "Guest Lecture On Linear Regression for the U-M Big Data Summer Institute 2025\n\nI led a 3 hour session introducing simple and multiple linear regression wih the goal of understanding modelling assumptions, interpreting parameters, and using a fitted model to obtain predicted values.\nThe first half of the session was a lecture with some brief questions to assess understanding (slides)\nThe second half of the session included an activity in R to learn lm and other basic R functions essential for linear regression (worksheet)\n\nGuest Lecture on Protocols and Deviations for BIOS 619: Clinical Trials (November 2023)\n\nMy dissertation advisor Dr. Kelley Kidwell was the course instructor. I borrowed her slides to lead the 1.5 hour lecture.\n\nSupplemental Instruction Leader for STA2226: Applied Probability and Statistics at Oakland University\n\nI designed activities and practice assessments for group study sessions following each lecture\nI also served as the Jon Froemke intern for the Academic Success Center in the 2020-2021 academic year. For this position, I created a teaching guide for a calculus course taken primarily by students in the School of Business Administration"
   },
   {
     "objectID": "experience.html#teaching",
     "href": "experience.html#teaching",
     "title": "Experience",
     "section": "",
-    "text": "Supplemental Instruction Leader for STA2226: Applied Probability and Statistics at Oakland University\n\nI designed activities and practice assessments for group study sessions following each lecture\nI also served as the Jon Froemke intern for the Academic Success Center in the 2020-2021 academic year. For this position, I created a teaching guide for a calculus course taken primarily by students in the School of Business Administration\n\nMath Corps Summer Camp College Instructor at Oakland University\n\nI participated during the first year of the program in 2020. We met virtually due to the COVID-19 pandemic, but this has developed into a thriving in-person summer camp at OU!\nAlong with other college instructors, I assisted Dr. Anna Maria Spagnuolo in leading math review activities for middle school students to prepare for their next school year and build confidence"
+    "text": "Guest Lecture On Linear Regression for the U-M Big Data Summer Institute 2025\n\nI led a 3 hour session introducing simple and multiple linear regression wih the goal of understanding modelling assumptions, interpreting parameters, and using a fitted model to obtain predicted values.\nThe first half of the session was a lecture with some brief questions to assess understanding (slides)\nThe second half of the session included an activity in R to learn lm and other basic R functions essential for linear regression (worksheet)\n\nGuest Lecture on Protocols and Deviations for BIOS 619: Clinical Trials (November 2023)\n\nMy dissertation advisor Dr. Kelley Kidwell was the course instructor. I borrowed her slides to lead the 1.5 hour lecture.\n\nSupplemental Instruction Leader for STA2226: Applied Probability and Statistics at Oakland University\n\nI designed activities and practice assessments for group study sessions following each lecture\nI also served as the Jon Froemke intern for the Academic Success Center in the 2020-2021 academic year. For this position, I created a teaching guide for a calculus course taken primarily by students in the School of Business Administration"
   },
   {
     "objectID": "experience.html#professional-experience",
@@ -46,7 +46,7 @@
     "href": "experience.html#projects",
     "title": "Experience",
     "section": "Projects",
-    "text": "Projects"
+    "text": "Projects\n\nStatistical analysis for the Back Pain Research Consortium (BACPAC) Research Program – starting August 2025\n\nThis trial employed a Sequential, Multiple Assignment, Randomized Trial (SMART) in order to determine optimal treatment recommendations for chronic low back pain\nThe SMART compares 4 interventions: Exercise/PT, Mindfulness Based Stress Reduction, Acupressure, and Duloxetine\nThe study objectives include identifying treatment moderators, determining optimal initial treatment recommendations based on patient phenotypes, and establishing mediators of the treatment effects\nWe will use SMART methodology developed by Dr. Kidwell and her research team to share data across treatment stages and estimate treatment effects wtih greater efficiency\n\nStatistical analysis using data from the Exemestane and Letrozole Pharmacogenetics (ELPh) trial (NCT00228956) – April to June 2024\n\nThe ELPh trial concluded in 2009 and previously published analyses demonstrated a significant effect of aromatase inhibitor (AI) therapy on estradiol levels\nThe objectives of this analysis were to examine how the changes in estrogen levels due to AI therapy impacted oxylipin species and if oxylipin changes are associated with AT-associated musculoskeletal symptoms (AIMSS)\nThe statistical analysis for both objectives involved multivariable regression models. One challenge with this project was handling highly correlated oxylipin species.\n\nStatistical analysis for the Michigan Alcohol Improvement Network- Alcohol Reduction and Treatment Trial (MAIN-ART, NCT04473482) – June to September 2023\n\nThis was a randomized pilot trial to assess the feasibility and acceptability of a mobile health intervention for alcohol use disorder (AUD)\nA challenge with this project was learning how to present the results given the small number of trial participants\n\nStatistical analyses for 2 pharmacogenomics studies (2021 and 2022)"
   },
   {
     "objectID": "experience.html#courses",
@@ -68,5 +68,19 @@
     "title": "Sarah Medley",
     "section": "",
     "text": "I’m currently a PhD candidate in the Department of Biostatitics at University of Michigan. I am co-advised by Drs. Kelley Kidwell and Tom Braun, and my disseration focuses on the development of frequentist and Bayesian methods for novel SMART designs incorporating patient treatment preferences. I am expecting to graduate in May 2026 and am currently exploring career options. I would love to continue learning about innovative clinical trial designs and methods!\nMy complete CV is available, but please see the Research and Experience tabs for a better picture of my current interests and past work!"
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "CV",
+    "section": "",
+    "text": "Education\nUniversity of Michigan, Ann Arbor, MI Biostatistics (PhD), GPA 4.0 May 2023 - May 2026 (expected)"
+  },
+  {
+    "objectID": "experience.html#other",
+    "href": "experience.html#other",
+    "title": "Experience",
+    "section": "Other",
+    "text": "Other\n\nMath Corps Summer Camp College Instructor at Oakland University\n\nI participated during the first year of the program in 2020. We met virtually due to the COVID-19 pandemic, but this has developed into a thriving in-person summer camp at OU!\nAlong with other college instructors, I assisted Dr. Anna Maria Spagnuolo in leading math review activities for middle school students to prepare for their next school year and build confidence"
   }
 ]
