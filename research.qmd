@@ -4,9 +4,9 @@ title: "Research"
 
 ## Research Interests
 
-- Sequential, Multiple Assignment, Randomized Trials (SMARTs): I have focused on standard SMART designs and novel SMART designs incorporating patient treatment preferences, but I would also like to explore small sample SMARTs (snSMARTs) for rare diseases.
+-   Sequential, Multiple Assignment, Randomized Trials (SMARTs): I have focused on standard SMART designs and novel SMART designs incorporating patient treatment preferences, but I would also like to explore small sample SMARTs (snSMARTs) for rare diseases.
 
-- Supplementing clinical trials with real-world evidence (RWE): I am interested in developing dynamic borrowing and in determining which method best achieves the desired balance between bias and efficiency for a particular application. 
+-   Supplementing clinical trials with real-world evidence (RWE): I am interested in developing dynamic borrowing and in determining which method best achieves the desired balance between bias and efficiency for a particular application.
 
 ## Publications
 
